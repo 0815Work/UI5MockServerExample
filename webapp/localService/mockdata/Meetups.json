@@ -1,0 +1,191 @@
+[{
+	"MeetupID": 1,
+	"Title": "Toronto Tech Meet-Up",
+	"EventDate": "/Date(1278450000000)/",
+	"Description": "The best way to expand your knowledge and network of the Toronto technology community"
+}, {
+	"MeetupID": 2,
+	"Title": "Los Angeles Redditors",
+	"EventDate": "/Date(1478171994000)/",
+	"Description": "This is a meet-up group specifically for redditors of r/LosAngeles. If you don't know what that is, this isn't the meet-up you're looking for"
+}, {
+	"MeetupID": 3,
+	"Title": "Designers + Geeks New York",
+	"EventDate": "/Date(1070968794000)/",
+	"Description": "Bringing designers + geeks together to talk shop, start-ups, and do some knowledge sharing. All types of designers + geeks welcome"
+}, {
+	"MeetupID": 4,
+	"Title": "New York City Geek Adventure Group",
+	"EventDate": "/Date(1034763594000)/",
+	"Description": "Are you looking to have fun and go on random adventures?"
+}, {
+	"MeetupID": 9775,
+	"Title": "Title 1",
+	"EventDate": "/Date(1364991512000)/",
+	"Description": "Description 1",
+	"HostedBy": "HostedBy 1",
+	"ContactPhone": "ContactPhone 1",
+	"Address": "Address 1",
+	"Country": "Country 1",
+	"Latitude": 0.1144466684412282,
+	"Longitude": 8.12978874441541,
+	"HostedById": "HostedById 1",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(9775)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 7624,
+	"Title": "Title 2",
+	"EventDate": "/Date(1207743512000)/",
+	"Description": "Description 2",
+	"HostedBy": "HostedBy 2",
+	"ContactPhone": "ContactPhone 2",
+	"Address": "Address 2",
+	"Country": "Country 2",
+	"Latitude": 8.61176391631757,
+	"Longitude": 5.402816561808185,
+	"HostedById": "HostedById 2",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(7624)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 3898,
+	"Title": "Title 3",
+	"EventDate": "/Date(1465474712000)/",
+	"Description": "Description 3",
+	"HostedBy": "HostedBy 3",
+	"ContactPhone": "ContactPhone 3",
+	"Address": "Address 3",
+	"Country": "Country 3",
+	"Latitude": 2.7588238905607154,
+	"Longitude": 0.84590700974148,
+	"HostedById": "HostedById 3",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(3898)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 73,
+	"Title": "Title 4",
+	"EventDate": "/Date(1457702312000)/",
+	"Description": "Description 4",
+	"HostedBy": "HostedBy 4",
+	"ContactPhone": "ContactPhone 4",
+	"Address": "Address 4",
+	"Country": "Country 4",
+	"Latitude": 8.27416656245047,
+	"Longitude": 7.722326679570237,
+	"HostedById": "HostedById 4",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(73)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 8107,
+	"Title": "Title 5",
+	"EventDate": "/Date(1253189912000)/",
+	"Description": "Description 5",
+	"HostedBy": "HostedBy 5",
+	"ContactPhone": "ContactPhone 5",
+	"Address": "Address 5",
+	"Country": "Country 5",
+	"Latitude": 0.2863251266610112,
+	"Longitude": 0.08034864449375068,
+	"HostedById": "HostedById 5",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(8107)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 5368,
+	"Title": "Title 6",
+	"EventDate": "/Date(1048857512000)/",
+	"Description": "Description 6",
+	"HostedBy": "HostedBy 6",
+	"ContactPhone": "ContactPhone 6",
+	"Address": "Address 6",
+	"Country": "Country 6",
+	"Latitude": 1.0259803417742241,
+	"Longitude": 2.5622622476171197,
+	"HostedById": "HostedById 6",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(5368)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 3418,
+	"Title": "Title 7",
+	"EventDate": "/Date(963231512000)/",
+	"Description": "Description 7",
+	"HostedBy": "HostedBy 7",
+	"ContactPhone": "ContactPhone 7",
+	"Address": "Address 7",
+	"Country": "Country 7",
+	"Latitude": 3.6166117667933095,
+	"Longitude": 3.682885758562142,
+	"HostedById": "HostedById 7",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(3418)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 9671,
+	"Title": "Title 8",
+	"EventDate": "/Date(1471868312000)/",
+	"Description": "Description 8",
+	"HostedBy": "HostedBy 8",
+	"ContactPhone": "ContactPhone 8",
+	"Address": "Address 8",
+	"Country": "Country 8",
+	"Latitude": 9.609484717098844,
+	"Longitude": 6.863246527281921,
+	"HostedById": "HostedById 8",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(9671)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 6597,
+	"Title": "Title 9",
+	"EventDate": "/Date(1252412312000)/",
+	"Description": "Description 9",
+	"HostedBy": "HostedBy 9",
+	"ContactPhone": "ContactPhone 9",
+	"Address": "Address 9",
+	"Country": "Country 9",
+	"Latitude": 5.1193226630697275,
+	"Longitude": 5.7914701717404,
+	"HostedById": "HostedById 9",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(6597)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}, {
+	"MeetupID": 1460,
+	"Title": "Title 10",
+	"EventDate": "/Date(1095423512000)/",
+	"Description": "Description 10",
+	"HostedBy": "HostedBy 10",
+	"ContactPhone": "ContactPhone 10",
+	"Address": "Address 10",
+	"Country": "Country 10",
+	"Latitude": 6.884217818400842,
+	"Longitude": 0.1891082663680521,
+	"HostedById": "HostedById 10",
+	"Location": {},
+	"__metadata": {
+		"uri": "Meetups(1460)",
+		"type": "NerdMeetup.Models.Meetup"
+	}
+}]

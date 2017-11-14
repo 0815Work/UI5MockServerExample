@@ -1,0 +1,18 @@
+<mvc:View controllerName="UI5MockServerExample.MockServer.controller.App" 
+		  xmlns:html="http://www.w3.org/1999/xhtml"
+		  xmlns:mvc="sap.ui.core.mvc"
+		  xmlns="sap.m">
+	<List headerText="{i18n>headerText}" id="list" items="{/FindUpcomingMeetups}" noDataText="{i18n>noDataText}">
+		<items>
+			<ObjectListItem number="{ path: 'EventData', 
+									  type: 'sap.ui.model.type.DateTime',
+									  formatOptions: { style: 'medium' } }"
+							title="{Title}">
+				<attributes>
+					<ObjectAttribute text="{Description}" />
+				</attributes>
+			</ObjectListItem>
+		</items>
+	</List>
+	<Button press="onPressAction" text="{i18n>loadFirstItems}" />
+</mvc:View>
